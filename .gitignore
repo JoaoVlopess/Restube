@@ -60,3 +60,6 @@ temp/
 
 backend/cache/
 *.cache.json
+
+# Arquivos de testes locais temporários
+teste.py
