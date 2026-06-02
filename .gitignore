@@ -63,3 +63,5 @@ backend/cache/
 
 # Arquivos de testes locais temporários
 teste.py
+
+requirements.txt
